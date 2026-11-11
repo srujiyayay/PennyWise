@@ -1,0 +1,21 @@
+ID,Date,Type,Category,Description,Amount
+1,2026-11-01,Income,Salary,Allowance,20000
+2,2026-11-02,Expense,Food,Lunch,150
+3,2026-11-03,Expense,Travel,Bus,50
+4,2026-11-04,Expense,Utilities,Recharge,299
+5,2026-11-05,Income,Other,Freelance,5000
+6,2026-11-06,Expense,Food,Dinner,200
+7,2026-11-07,Expense,Education,Notebooks,320
+8,2026-11-08,Expense,Entertainment,Movie ticket,250
+9,2026-11-09,Expense,Health,Medicine,180.50
+10,2026-11-10,Expense,Food,Groceries,640
+11,2026-11-11,Expense,Travel,Auto fare,120
+12,2026-11-12,Income,Other,Sold old books,800
+13,2026-11-14,Expense,Utilities,Electricity bill,1250
+14,2026-11-15,Expense,Entertainment,Streaming plan,199
+15,2026-11-18,Expense,Food,Cafe snacks,95.50
+16,2026-12-01,Income,Salary,December allowance,20000
+17,2026-12-02,Expense,Food,Breakfast,80
+18,2026-12-03,Expense,Education,Online course,1500
+19,2026-12-05,Expense,Travel,Train ticket,430
+20,2026-10-28,Expense,Other,Stationery,60
