@@ -1,0 +1,7 @@
+ID,Date,Type,Category,Description,Amount
+1,2026-11-01,Income,Salary,Allowance,20000
+2,2026-11-02,Expense,Food,Lunch,150
+3,2026-11-03,Expense,Travel,Bus,50
+4,2026-11-04,Expense,Utilities,Recharge,299
+5,2026-11-05,Income,Other,Freelance,5000
+6,2026-11-06,Expense,Food,Dinner,200
